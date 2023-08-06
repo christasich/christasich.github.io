@@ -2,14 +2,14 @@ github_users:
   - christasich
 
 github_repos:
-  - christasich/dissertation
+  # - christasich/dissertation
   - christasich/tidal_flat
-  - christasich/winter-sim-2023
-  - christasich/dissertation_proposal
-  - christasich/trm_abm
-  - christasich/bnsf_response
-  - christasich/hm10
-  - christasich/bng_arsenic
-  - christasich/PopTestingApr2016
-  - christasich/p32_met
-  - christasich/sri_lanka_met
+  # - christasich/winter-sim-2023
+  # # - christasich/dissertation_proposal
+  # - christasich/trm_abm
+  # - christasich/bnsf_response
+  # - christasich/hm10
+  # - christasich/bng_arsenic
+  # - christasich/PopTestingApr2016
+  # - christasich/p32_met
+  # - christasich/sri_lanka_met
