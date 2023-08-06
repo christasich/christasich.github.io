@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Chris Tasich # the website title (if blank, full name will be used instead)
 first_name: Christopher
 middle_name: M.
 last_name: Tasich
 email: chris.tasich@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a Ph.D. Candidate at Vanderbilt University and 2023 PMF Finalist with research interests in climate change adaptation, climate mitigation, and coupled natural and human systems. My Ph.D. dissertation focuses on understanding the threat of sea level rise to the low-lying landscape of the lower Ganges-Brahmaputra-Meghna delta. Much of my work combines collecting environmental information through field research which I use to simulate the evolution of the landscape elevation of the delta. From this, I gain insights into the spatial resilience of the delta which can be used to prioritize strategies for mitigating the inevitable impact of sea level rise.
+  Personal website for Chris Tasich
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+# keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: code-bracket-square.svg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
