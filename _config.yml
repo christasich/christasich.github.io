@@ -8,7 +8,7 @@ middle_name: M.
 last_name: Tasich
 email: chris.tasich@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am a Ph.D. Candidate at Vanderbilt University and 2023 PMF Finalist with research interests in climate change adaptation, climate mitigation, and coupled natural and human systems. My Ph.D. dissertation focuses on understanding the threat of sea level rise to the low-lying landscape of the lower Ganges-Brahmaputra-Meghna delta. Much of my work combines collecting environmental information through field research which I use to simulate the evolution of the landscape elevation of the delta. From this, I gain insights into the spatial resilience of the delta which can be used to prioritize strategies for mitigating the inevitable impact of sea level rise.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: CodeBracketSquare.svg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://christasich.github.io # the base hostname & protocol for your site
 # baseurl: # the subpath of your site, e.g. /blog/
@@ -63,7 +63,7 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
@@ -100,11 +100,11 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
+instagram_id: christasich # your instagram id
+facebook_id: ctasich # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
-zotero_username: # your zotero username
+zotero_username: christasich # your zotero username
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -140,8 +140,8 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  repo: christasich/tidal_flat     # <your-github-user-name>/<your-github-repo-name>
+  repo_id: R_kgDOJLEoKA
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
   mapping: title                 # identify discussions by post title
@@ -211,6 +211,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - README.md
 keep_files:
   - CNAME
   - .nojekyll
