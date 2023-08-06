@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Ph.D. Candidate at <a href='https://as.vanderbilt.edu/earth-environmental-sciences/'>Vanderbilt University</a> | 2023 <a href='https://www.opm.gov/news/releases/2023/02/release-us-office-of-personnel-management-announces-finalists-for-class-of-2023-presidential-management-fellows/'>Presidential Management Fellows (PMF) Program</a> Finalist
+  <strong>Ph.D. Candidate at <a href='https://as.vanderbilt.edu/earth-environmental-sciences/'>Vanderbilt University</a> | 2023 <a href='https://www.opm.gov/news/releases/2023/02/release-us-office-of-personnel-management-announces-finalists-for-class-of-2023-presidential-management-fellows/'>Presidential Management Fellows (PMF)</a> Finalist</strong>
 
 profile:
   align: right
