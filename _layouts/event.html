@@ -18,7 +18,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta"><strong>Date: </strong>{{ page.date | date: "%B %-d, %Y" }}</p>
-    <p class="post-meta"><strong>Time: </strong>{{ page.date | date: "%I:%M %p" }}</p>
+    <p class="post-meta"><strong>Time: </strong>{{ page.date | date: "%I:%M %p %Z" }}</p>
     <p class="post-meta"><strong>Location: </strong><a href="https://goo.gl/maps/xa2ZWyNHnY79VGmz9">{{ page.location }}</a></p>
     <p class="post-meta"><strong>Zoom: </strong><a href="{{ page.zoom }}">{{ page.zoom }}</p>
     &nbsp;&nbsp;
