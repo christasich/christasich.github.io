@@ -2,9 +2,14 @@ github_users:
   - christasich
 
 github_repos:
-  # - christasich/dissertation
+  - christasich/dissertation
   - christasich/tidal_flat
-  # - christasich/winter-sim-2023
+  - christasich/dotfiles
+  - christasich/epa_err
+  - christasich/spdtools
+  - christasich/christasich
+  - christasich/winter-sim-2023
+  - christasich/resume
   # # - christasich/dissertation_proposal
   # - christasich/trm_abm
   # - christasich/bnsf_response
