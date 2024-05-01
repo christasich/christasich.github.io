@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Christopher M. Tasich
+      value: Albert Einstein
     - name: Date of Birth
-      value: 12th July 1985
+      value: 14th March 1879
     - name: Languages
-      value: English, French, Serbian
+      value: English, German
 
 - title: Education
   type: time_table
