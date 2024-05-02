@@ -1,12 +1,23 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - christasich
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - christasich/tidal_flat
+
+# github_repos_all:
+#   - christasich/dissertation
+#   - christasich/tidal_flat
+#   - christasich/dotfiles
+#   - christasich/epa_err
+#   - christasich/spdtools
+#   - christasich/christasich
+#   - christasich/winter-sim-2023
+#   - christasich/resume
+  # # - christasich/dissertation_proposal
+  # - christasich/trm_abm
+  # - christasich/bnsf_response
+  # - christasich/hm10
+  # - christasich/bng_arsenic
+  # - christasich/PopTestingApr2016
+  # - christasich/p32_met
+  # - christasich/sri_lanka_met
